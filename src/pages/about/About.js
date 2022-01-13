@@ -3,7 +3,13 @@ import React from 'react'
 const About = () => {
     return (
         <>
-            <div>About Page</div>
+            <section className="hero is-large is-dark">
+                <div className="hero-body">
+                    <div className="container has-text-centered">
+                        <p className="title">About Page</p>
+                    </div>
+                </div>
+            </section>
         </>
     )
 }

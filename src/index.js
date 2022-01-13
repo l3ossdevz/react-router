@@ -5,6 +5,7 @@ import App from './App'
 import reportWebVitals from './reportWebVitals'
 import { BrowserRouter } from 'react-router-dom'
 import 'bulma/css/bulma.min.css'
+import '@fortawesome/fontawesome-free/css/all.css'
 
 const disableLog = () => {}
 
